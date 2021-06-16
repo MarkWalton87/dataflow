@@ -11,6 +11,9 @@
 		"AzureSynapseAnalytics1_connectionString": {
 			"value": ""
 		},
+		"mw_dbls_accessToken": {
+			"value": ""
+		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://awdlsstudmw.dfs.core.windows.net"
 		},
