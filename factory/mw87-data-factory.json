@@ -1,0 +1,9 @@
+{
+	"name": "mw87-data-factory",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e399f5a5-7154-45ed-9f7c-069d918ab95b",
+		"tenantId": "ee8c69dc-076c-44ba-b58d-1b64adb195f4"
+	}
+}
